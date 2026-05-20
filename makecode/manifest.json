@@ -6,16 +6,16 @@
       "path": "makecode",
       "items": [
         {
-          "id": "ตัวอย่าง1",
-          "title": "ตัวอย่าง1",
+          "id": "ตัวอย่าง11",
+          "title": "ตัวอย่าง11",
           "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
           "file": "microbit-ตัวอย่าง1.hex",
           "type": "makecode",
           "version": "1.0.0"
         },
          {
-          "id": "ตัวอย่าง2",
-          "title": "ตัวอย่าง2",
+          "id": "ตัวอย่าง22",
+          "title": "ตัวอย่าง22",
           "description": "ตัวอย่าง Card Code สำหรับใช้งาน wind",
           "file": "microbit-ตัวอย่าง2.hex",
           "type": "makecode",
