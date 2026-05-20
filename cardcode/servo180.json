@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "type": "logic-sammy-program",
+  "name": "Card Code 20/5/2569 13:24:39",
+  "exportedAt": "2026-05-20T06:24:39.514Z",
+  "blocks": [
+    {
+      "uid": "block_1778214598634_87fb31b3733f78",
+      "id": "s180",
+      "icon": "assets/blocks/servo180.png",
+      "label": "SERVO 180",
+      "payload": "S180",
+      "type": "command",
+      "category": "motion",
+      "angle": 0,
+      "x": 0,
+      "executing": false
+    },
+    {
+      "uid": "block_1778214604376_d009426439f038",
+      "id": "move_stop",
+      "icon": "assets/blocks/stop.png",
+      "label": "STOP",
+      "payload": "S",
+      "type": "command",
+      "category": "motion",
+      "x": 1,
+      "executing": false
+    },
+    {
+      "uid": "block_1778214612151_3dd6ded4722bf",
+      "id": "s180",
+      "icon": "assets/blocks/servo180.png",
+      "label": "SERVO 180",
+      "payload": "S180",
+      "type": "command",
+      "category": "motion",
+      "angle": 90,
+      "x": 2,
+      "executing": false
+    },
+    {
+      "uid": "block_1778214615098_339f077db927f8",
+      "id": "move_stop",
+      "icon": "assets/blocks/stop.png",
+      "label": "STOP",
+      "payload": "S",
+      "type": "command",
+      "category": "motion",
+      "x": 3,
+      "executing": false
+    },
+    {
+      "uid": "block_1778214618751_d5f4b3c1a73058",
+      "id": "s180",
+      "icon": "assets/blocks/servo180.png",
+      "label": "SERVO 180",
+      "payload": "S180",
+      "type": "command",
+      "category": "motion",
+      "angle": 180,
+      "x": 4,
+      "executing": false
+    }
+  ],
+  "loopMode": false,
+  "scale": 1
+}
