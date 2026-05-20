@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "type": "mqtt-command-grid-preset",
+  "id": "preset-1779243224626",
+  "name": "Command preset 5/20/2026, 9:13:44 AM",
+  "savedAt": "2026-05-20T02:13:44.626Z",
+  "grid": {
+    "cols": 4,
+    "rows": 5
+  },
+  "items": [
+    {
+      "name": "เปิดระบบ",
+      "payload": "turn-on",
+      "x": 2,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "col": 3,
+      "row": 1,
+      "icon": "./assets/shortcut/switch-on.png"
+    },
+    {
+      "name": "ปิดระบบ",
+      "payload": "turn-off",
+      "x": 2,
+      "y": 1,
+      "w": 1,
+      "h": 1,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "col": 3,
+      "row": 2,
+      "icon": "./assets/shortcut/switch-off.png"
+    },
+    {
+      "name": "เปิดแอร์",
+      "payload": "airon",
+      "x": 0,
+      "y": 2,
+      "w": 1,
+      "h": 1,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "col": 1,
+      "row": 3,
+      "icon": "./assets/shortcut/air-conditioner.png"
+    },
+    {
+      "name": "เปิดพัดลม",
+      "payload": "onfan",
+      "x": 0,
+      "y": 1,
+      "w": 1,
+      "h": 1,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "col": 1,
+      "row": 2,
+      "icon": "./assets/shortcut/fan-on.png"
+    },
+    {
+      "name": "เปิดหน้าต่าง",
+      "payload": "opend",
+      "x": 3,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "col": 4,
+      "row": 1,
+      "icon": "./assets/shortcut/window.png"
+    },
+    {
+      "name": "ปิดไฟหน้าบ้าน",
+      "payload": "off-f",
+      "x": 0,
+      "y": 0,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "w": 1,
+      "h": 1,
+      "col": 1,
+      "row": 1,
+      "icon": "./assets/shortcut/turned-off.png"
+    },
+    {
+      "name": "ปิดพัดลม",
+      "payload": "offfan",
+      "x": 1,
+      "y": 1,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "w": 1,
+      "h": 1,
+      "col": 2,
+      "row": 2,
+      "icon": "./assets/shortcut/fan-off.png"
+    },
+    {
+      "name": "เปิดไฟหน้าบ้าน",
+      "payload": "on-f",
+      "icon": "./assets/shortcut/turned-on.png",
+      "x": 1,
+      "y": 0,
+      "col": 2,
+      "row": 1,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "ปิดหน้าต่าง",
+      "payload": "closed",
+      "icon": "./assets/shortcut/window.png",
+      "x": 3,
+      "y": 1,
+      "col": 4,
+      "row": 2,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "name": "ปิดแอร์",
+      "payload": "airoff",
+      "icon": "./assets/shortcut/air-conditioner.png",
+      "x": 1,
+      "y": 2,
+      "col": 2,
+      "row": 3,
+      "colSpan": 1,
+      "rowSpan": 1,
+      "w": 1,
+      "h": 1
+    }
+  ]
+}

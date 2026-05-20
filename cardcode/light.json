@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "type": "logic-sammy-program",
+  "name": "Card Code 20/5/2569 10:15:04",
+  "exportedAt": "2026-05-20T03:15:04.255Z",
+  "blocks": [
+    {
+      "uid": "block_1778225327170_9786389607375",
+      "id": "if_logic",
+      "icon": "assets/blocks/if.png",
+      "label": "IF",
+      "payload": "IF",
+      "type": "logic",
+      "category": "logic",
+      "x": 0,
+      "executing": false
+    },
+    {
+      "uid": "block_1778233025113_dc2d2967de9ec",
+      "id": "light",
+      "icon": "assets/blocks/light.png",
+      "label": "Light",
+      "type": "sensor",
+      "category": "sensor",
+      "operator": ">",
+      "threshold": 160,
+      "x": 1,
+      "executing": false
+    },
+    {
+      "uid": "block_1778225329363_81c63ef28362e",
+      "id": "do",
+      "icon": "assets/blocks/do.png",
+      "label": "REPEAT",
+      "payload": "DO",
+      "type": "logic",
+      "category": "logic",
+      "x": 2,
+      "executing": false
+    },
+    {
+      "uid": "block_1778225235181_9ff82ac23af44",
+      "id": "move_fwd",
+      "icon": "assets/blocks/forward.png",
+      "label": "FORWARD",
+      "payload": "F",
+      "type": "command",
+      "category": "motion",
+      "x": 3,
+      "executing": false,
+      "speed": 20
+    },
+    {
+      "uid": "block_1778225329961_7118870b2eeb2",
+      "id": "else_logic",
+      "icon": "assets/blocks/else.png",
+      "label": "ELSE",
+      "payload": "ELSE",
+      "type": "logic",
+      "category": "logic",
+      "x": 4,
+      "executing": false
+    },
+    {
+      "uid": "block_1778233085783_358b06432c689",
+      "id": "wait",
+      "icon": "assets/blocks/stop.png",
+      "label": "WAIT",
+      "payload": "S",
+      "type": "wait",
+      "category": "motion",
+      "duration": 100,
+      "x": 5,
+      "executing": false
+    }
+  ],
+  "loopMode": true,
+  "scale": 1
+}
