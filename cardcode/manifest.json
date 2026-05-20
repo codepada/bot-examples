@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "groups": {
+    "cardcode": {
+      "type": "cardcode",
+      "path": "cardcode",
+      "items": [
+        {
+          "id": "light",
+          "title": "light",
+          "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
+          "file": "light.json",
+          "type": "cardcode",
+          "version": "1.0.0"
+        },
+         {
+          "id": "wind",
+          "title": "wind",
+          "description": "ตัวอย่าง Card Code สำหรับใช้งาน wind",
+          "file": "wind.json",
+          "type": "cardcode",
+          "version": "1.0.0"
+        },
+        {
+          "id": "sonar",
+          "title": "sonar",
+          "description": "ตัวอย่าง Card Code สำหรับใช้งาน sonar",
+          "file": "sonar.json",
+          "type": "cardcode",
+          "version": "1.0.0"
+        },
+        {
+          "id": "racing-car",
+          "title": "รถซิ่ง",
+          "description": "ตัวอย่าง Card Code สำหรับควบคุมรถซิ่ง",
+          "file": "รถซิ่ง.json",
+          "type": "cardcode",
+          "version": "1.0.0"
+        }
+      ]
+    }
+  }
+}
