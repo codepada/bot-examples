@@ -22,7 +22,7 @@
           "version": "1.0.0"
         },
         {
-          "id": "1.demo-robot-arm",
+          "id": "demo-robot-arm",
           "title": "1.demo-robot-arm",
           "description": "ตัวอย่าง Card Code สำหรับใช้งาน sonar",
           "file": "1.demo-robot-arm.hex",
@@ -30,7 +30,7 @@
           "version": "1.0.0"
         },
         {
-          "id": "2.demo-Track-Line",
+          "id": "demo-Track-Line",
           "title": "2.demo-Track-Line",
           "description": "ตัวอย่าง Card Code สำหรับควบคุมรถซิ่ง",
           "file": "2.demo-Track-Line.hex",
