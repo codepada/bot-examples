@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "groups": {
-    "cardcode": {
+    "iot": {
       "type": "iot",
       "path": "iot",
       "items": [
