@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
-  "groups": {
-    "iot": {
+  "groups":"iot",
       "type": "iot",
       "path": "iot",
       "items": [
