@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "type": "logic-sammy-program",
+  "name": "Card Code 20/5/2569 11:35:53",
+  "exportedAt": "2026-05-20T04:35:53.798Z",
+  "blocks": [
+    {
+      "uid": "block_1778302078037_576423eb5d7fb",
+      "id": "move_fwd",
+      "icon": "assets/blocks/forward.png",
+      "label": "FORWARD",
+      "payload": "F",
+      "type": "command",
+      "category": "motion",
+      "x": 0,
+      "executing": false,
+      "speed": 100
+    },
+    {
+      "uid": "block_1778302091085_f0b93ef126ecd8",
+      "id": "num3",
+      "icon": "assets/blocks/num3.png",
+      "label": "3",
+      "payload": "3",
+      "type": "number",
+      "category": "loop",
+      "x": 1,
+      "executing": false
+    },
+    {
+      "uid": "block_1778302097010_b81554f227c24",
+      "id": "wait",
+      "icon": "assets/blocks/stop.png",
+      "label": "WAIT",
+      "payload": "S",
+      "type": "wait",
+      "category": "motion",
+      "duration": 200,
+      "x": 2,
+      "executing": false
+    },
+    {
+      "uid": "block_1778302103938_f5a7a062d6db78",
+      "id": "move_bwd",
+      "icon": "assets/blocks/backward.png",
+      "label": "BACKWARD",
+      "payload": "B",
+      "type": "command",
+      "category": "motion",
+      "x": 3,
+      "executing": false,
+      "speed": 100
+    },
+    {
+      "uid": "block_1778302108591_1cd0c04a82d778",
+      "id": "move_bwd",
+      "icon": "assets/blocks/backward.png",
+      "label": "BACKWARD",
+      "payload": "B",
+      "type": "command",
+      "category": "motion",
+      "x": 4,
+      "executing": false,
+      "speed": 100
+    },
+    {
+      "uid": "block_1778302109441_a4d0d304709e5",
+      "id": "move_bwd",
+      "icon": "assets/blocks/backward.png",
+      "label": "BACKWARD",
+      "payload": "B",
+      "type": "command",
+      "category": "motion",
+      "x": 5,
+      "executing": false,
+      "speed": 100
+    }
+  ],
+  "loopMode": false,
+  "scale": 1
+}
