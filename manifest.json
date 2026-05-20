@@ -1,44 +1,35 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2869
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red173\green176\blue178;\red15\green16\blue16;}
-{\*\expandedcolortbl;;\cssrgb\c73333\c74510\c74902;\cssrgb\c7059\c7451\c7843;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww20040\viewh16260\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\{\
-  "version": "1.0.0",\
-  "groups": \{\
-    "cardcode": \{\
-      "type": "cardcode",\
-      "path": "cardcode",\
-      "items": [\
-        \{\
-          "id": "light",\
-          "title": "light",\
-          "description": "\uc0\u3605 \u3633 \u3623 \u3629 \u3618 \u3656 \u3634 \u3591  Card Code \u3626 \u3635 \u3627 \u3619 \u3633 \u3610 \u3629 \u3656 \u3634 \u3609 \u3588 \u3656 \u3634 \u3649 \u3626 \u3591 ",\
-          "file": "light.json",\
-          "type": "cardcode",\
-          "version": "1.0.0"\
-        \},\
-        \{\
-          "id": "sonar",\
-          "title": "sonar",\
-          "description": "\uc0\u3605 \u3633 \u3623 \u3629 \u3618 \u3656 \u3634 \u3591  Card Code \u3626 \u3635 \u3627 \u3619 \u3633 \u3610 \u3651 \u3594 \u3657 \u3591 \u3634 \u3609  sonar",\
-          "file": "sonar.json",\
-          "type": "cardcode",\
-          "version": "1.0.0"\
-        \},\
-        \{\
-          "id": "racing-car",\
-          "title": "\uc0\u3619 \u3606 \u3595 \u3636 \u3656 \u3591 ",\
-          "description": "\uc0\u3605 \u3633 \u3623 \u3629 \u3618 \u3656 \u3634 \u3591  Card Code \u3626 \u3635 \u3627 \u3619 \u3633 \u3610 \u3588 \u3623 \u3610 \u3588 \u3640 \u3617 \u3619 \u3606 \u3595 \u3636 \u3656 \u3591 ",\
-          "file": "\uc0\u3619 \u3606 \u3595 \u3636 \u3656 \u3591 .json",\
-          "type": "cardcode",\
-          "version": "1.0.0"\
-        \}\
-      ]\
-    \}\
-  \}\
-\}}
+{
+  "version": "1.0.0",
+  "groups": {
+    "cardcode": {
+      "type": "cardcode",
+      "path": "cardcode",
+      "items": [
+        {
+          "id": "light",
+          "title": "light",
+          "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
+          "file": "light.json",
+          "type": "cardcode",
+          "version": "1.0.0"
+        },
+        {
+          "id": "sonar",
+          "title": "sonar",
+          "description": "ตัวอย่าง Card Code สำหรับใช้งาน sonar",
+          "file": "sonar.json",
+          "type": "cardcode",
+          "version": "1.0.0"
+        },
+        {
+          "id": "racing-car",
+          "title": "รถซิ่ง",
+          "description": "ตัวอย่าง Card Code สำหรับควบคุมรถซิ่ง",
+          "file": "รถซิ่ง.json",
+          "type": "cardcode",
+          "version": "1.0.0"
+        }
+      ]
+    }
+  }
+}
