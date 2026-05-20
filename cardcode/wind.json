@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "type": "logic-sammy-program",
+  "name": "Card Code 20/5/2569 13:15:06",
+  "exportedAt": "2026-05-20T06:15:06.854Z",
+  "blocks": [
+    {
+      "uid": "block_1778304562705_cbb549f89df328",
+      "id": "if_logic",
+      "icon": "assets/blocks/if.png",
+      "label": "IF",
+      "payload": "IF",
+      "type": "logic",
+      "category": "logic",
+      "x": 0,
+      "executing": false
+    },
+    {
+      "uid": "block_1778304575213_1c2be0a4be70e8",
+      "id": "sonar",
+      "icon": "assets/blocks/sonar.png",
+      "label": "Sonar",
+      "type": "sensor",
+      "category": "sensor",
+      "operator": "<",
+      "threshold": 15,
+      "x": 1,
+      "executing": false
+    },
+    {
+      "uid": "block_1778304563114_97bbe7b7fafd38",
+      "id": "do",
+      "icon": "assets/blocks/do.png",
+      "label": "REPEAT",
+      "payload": "DO",
+      "type": "logic",
+      "category": "logic",
+      "x": 2,
+      "executing": false
+    },
+    {
+      "uid": "block_1778304569605_30cf651b8ebd58",
+      "id": "m1_l",
+      "icon": "assets/blocks/m1_left.png",
+      "label": "M1 LEFT",
+      "payload": "M1L",
+      "type": "command",
+      "category": "motion",
+      "x": 3,
+      "executing": false,
+      "speed": 50
+    },
+    {
+      "uid": "block_1778304563564_46c6870980b078",
+      "id": "else_logic",
+      "icon": "assets/blocks/else.png",
+      "label": "ELSE",
+      "payload": "ELSE",
+      "type": "logic",
+      "category": "logic",
+      "x": 4,
+      "executing": false
+    },
+    {
+      "uid": "block_1778304589973_6d9fec6c49131",
+      "id": "wait",
+      "icon": "assets/blocks/stop.png",
+      "label": "WAIT",
+      "payload": "S",
+      "type": "wait",
+      "category": "motion",
+      "duration": 100,
+      "x": 5,
+      "executing": false
+    }
+  ],
+  "loopMode": true,
+  "scale": 1
+}
