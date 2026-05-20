@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "groups": {
+    "python": {
+      "type": "python",
+      "path": "python",
+      "items": [
+        {
+          "id": "buttonA",
+          "title": "buttonA",
+          "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
+          "file": "buttonA.hex",
+          "type": "python",
+          "version": "1.0.0"
+        },
+         {
+          "id": "lightlevel",
+          "title": "lightlevel",
+          "description": "ตัวอย่าง Card Code สำหรับใช้งาน wind",
+          "file": "lightlevel.hex",
+          "type": "python",
+          "version": "1.0.0"
+        },
+        {
+          "id": "microbit-py1",
+          "title": "microbit-py1",
+          "description": "ตัวอย่าง Card Code สำหรับใช้งาน sonar",
+          "file": "microbit-py1.hex",
+          "type": "python",
+          "version": "1.0.0"
+        },
+        {
+          "id": "microbit-py2",
+          "title": "microbit-py2",
+          "description": "ตัวอย่าง Card Code สำหรับควบคุมรถซิ่ง",
+          "file": "microbit-py2.hex",
+          "type": "python",
+          "version": "1.0.0"
+        }
+        
+      ]
+    }
+  }
+}
