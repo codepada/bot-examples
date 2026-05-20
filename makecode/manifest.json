@@ -9,7 +9,7 @@
           "id": "ตัวอย่าง 1",
           "title": "ตัวอย่าง 1",
           "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
-          "file": "ตัวอย่าง1.hex",
+          "file": "microbit-ตัวอย่าง1.hex",
           "type": "makecode",
           "version": "1.0.0"
         },
@@ -17,7 +17,7 @@
           "id": "ตัวอย่าง 2",
           "title": "ตัวอย่าง 2",
           "description": "ตัวอย่าง Card Code สำหรับใช้งาน wind",
-          "file": "ตัวอย่าง2.hex",
+          "file": "microbit-ตัวอย่าง2.hex",
           "type": "makecode",
           "version": "1.0.0"
         },
