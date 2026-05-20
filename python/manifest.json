@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
-  "groups": {
-    "python": {
+  "groups": "python",
       "type": "python",
       "path": "python",
       "items": [
@@ -39,6 +38,5 @@
         }
         
       ]
-    }
-  }
+    
 }
