@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
-  "groups": {
-    "makecode": {
+  "groups": "makecode",
       "type": "makecode",
       "path": "makecode",
       "items": [
