@@ -1,20 +1,21 @@
 {
   "version": "1.0.0",
-  "groups":"iot",
+  "groups": {
+    "iot": {
       "type": "iot",
       "path": "iot",
       "items": [
         {
-          "id": "ตัวอย่าง 1",
-          "title": "ตัวอย่าง 1",
+          "id": "ตัวอย่าง111",
+          "title": "ตัวอย่าง111",
           "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
           "file": "ตัวอย่าง1.json",
           "type": "iot",
           "version": "1.0.0"
         },
          {
-          "id": "ตัวอย่าง 2",
-          "title": "ตัวอย่าง 2",
+          "id": "ตัวอย่าง222",
+          "title": "ตัวอย่าง222",
           "description": "ตัวอย่าง Card Code สำหรับใช้งาน wind",
           "file": "ตัวอย่าง2.json",
           "type": "iot",
@@ -36,7 +37,10 @@
           "type": "iot",
           "version": "1.0.0"
         }
-        
       ]
+    }
+  }
+}
+
    
 }
