@@ -13,6 +13,14 @@
           "type": "cardcode",
           "version": "1.0.0"
         },
+         {
+          "id": "wind",
+          "title": "wind",
+          "description": "ตัวอย่าง Card Code สำหรับใช้งาน wind",
+          "file": "wind.json",
+          "type": "cardcode",
+          "version": "1.0.0"
+        },
         {
           "id": "sonar",
           "title": "sonar",
