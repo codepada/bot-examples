@@ -41,7 +41,7 @@
           "id": "servo180",
           "title": "servo",
           "description": "ตัวอย่าง Card Code สำหรับควบservo",
-          "file": "servo.json",
+          "file": "servo180.json",
           "type": "cardcode",
           "version": "1.0.0"
         },
