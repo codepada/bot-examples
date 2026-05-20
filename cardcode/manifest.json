@@ -36,6 +36,14 @@
           "file": "รถซิ่ง.json",
           "type": "cardcode",
           "version": "1.0.0"
+        },
+        {
+          "id": "servo180",
+          "title": "servo",
+          "description": "ตัวอย่าง Card Code สำหรับควบservo",
+          "file": "servo.json",
+          "type": "cardcode",
+          "version": "1.0.0"
         }
       ]
     }
