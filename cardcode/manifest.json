@@ -44,6 +44,14 @@
           "file": "servo.json",
           "type": "cardcode",
           "version": "1.0.0"
+        },
+        {
+          "id": "motion",
+          "title": "motion",
+          "description": "ตัวอย่าง Card Code สำหรับควบmotion",
+          "file": "motion.json",
+          "type": "cardcode",
+          "version": "1.0.0"
         }
       ]
     }
