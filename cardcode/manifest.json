@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
-  "groups": {
-    "cardcode": {
+  "groups": "cardcode",
       "type": "cardcode",
       "path": "cardcode",
       "items": [
@@ -54,6 +53,5 @@
           "version": "1.0.0"
         }
       ]
-    }
-  }
+  
 }
