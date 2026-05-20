@@ -23,17 +23,17 @@
         },
         {
           "id": "demo-robot-arm",
-          "title": "1.demo-robot-arm",
+          "title": "demo-robot-arm",
           "description": "ตัวอย่าง Card Code สำหรับใช้งาน sonar",
-          "file": "1.demo-robot-arm.hex",
+          "file": "demo-robot-arm.hex",
           "type": "makecode",
           "version": "1.0.0"
         },
         {
           "id": "demo-Track-Line",
-          "title": "2.demo-Track-Line",
+          "title": "demo-Track-Line",
           "description": "ตัวอย่าง Card Code สำหรับควบคุมรถซิ่ง",
-          "file": "2.demo-Track-Line.hex",
+          "file": "demo-Track-Line.hex",
           "type": "makecode",
           "version": "1.0.0"
         }
