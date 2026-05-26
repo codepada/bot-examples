@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "MackerSpace",
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.0.1",
     "minSupportedVersion": "1.0.0",
     "title": "มี MackerSpace เวอร์ชันใหม่",
     "message": "มี MackerSpace เวอร์ชันใหม่พร้อมดาวน์โหลดแล้ว",
@@ -10,7 +10,7 @@
       "windows": "https://drive.google.com/file/d/1hCu1M4U1wvNKiZ7jmj8JNcThZY6k0Sj3/view"
     },
     "releaseNotes": [
-      "ปรับปรุงโปรแกรมให้พร้อมใช้งานล่าสุด"
+      "ทดสอบ ปรับปรุงโปรแกรมให้พร้อมใช้งานล่าสุด"
     ],
     "publishedAt": "2026-05-26"
   }
