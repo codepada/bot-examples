@@ -6,6 +6,14 @@
       "path": "makecode",
       "items": [
         {
+          "id": "motor",
+          "title": "motor",
+          "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
+          "file": "motor.hex",
+          "type": "makecode",
+          "version": "1.0.0"
+        },
+        {
           "id": "ตัวอย่าง11",
           "title": "ตัวอย่าง11",
           "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
