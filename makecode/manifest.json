@@ -6,42 +6,34 @@
       "path": "makecode",
       "items": [
         {
+          "id": "function",
+          "title": "function",
+          "description": "ตัวอย่าง function",
+          "file": "function.hex",
+          "type": "makecode",
+          "version": "1.0.0"
+        },
+        {
+          "id": "sonar",
+          "title": "sonar",
+          "description": "ตัวอย่าง sonar",
+          "file": "sonar.hex",
+          "type": "makecode",
+          "version": "1.0.0"
+        },
+        {
           "id": "motor",
           "title": "motor",
-          "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
+          "description": "ตัวอย่าง motor",
           "file": "motor.hex",
           "type": "makecode",
           "version": "1.0.0"
         },
         {
-          "id": "ตัวอย่าง11",
-          "title": "ตัวอย่าง11",
-          "description": "ตัวอย่าง Card Code สำหรับอ่านค่าแสง",
-          "file": "microbit-ตัวอย่าง1.hex",
-          "type": "makecode",
-          "version": "1.0.0"
-        },
-         {
-          "id": "ตัวอย่าง22",
-          "title": "ตัวอย่าง22",
-          "description": "ตัวอย่าง Card Code สำหรับใช้งาน wind",
-          "file": "microbit-ตัวอย่าง2.hex",
-          "type": "makecode",
-          "version": "1.0.0"
-        },
-        {
-          "id": "demo-robot-arm",
-          "title": "demo-robot-arm",
-          "description": "ตัวอย่าง Card Code สำหรับใช้งาน sonar",
-          "file": "demo-robot-arm.hex",
-          "type": "makecode",
-          "version": "1.0.0"
-        },
-        {
-          "id": "demo-Track-Line",
-          "title": "demo-Track-Line",
-          "description": "ตัวอย่าง Card Code สำหรับควบคุมรถซิ่ง",
-          "file": "demo-Track-Line.hex",
+          "id": "trackline",
+          "title": "trackline",
+          "description": "ตัวอย่าง trackline",
+          "file": "trackline.hex",
           "type": "makecode",
           "version": "1.0.0"
         }
