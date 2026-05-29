@@ -6,6 +6,14 @@
       "path": "makecode",
       "items": [
         {
+          "id": "mission4",
+          "title": "mission4",
+          "description": "ตัวอย่าง mission4 นะจ๊ะ",
+          "file": "mission4.hex",
+          "type": "makecode",
+          "version": "1.0.0"
+        },
+        {
           "id": "mission3",
           "title": "mission3",
           "description": "ตัวอย่าง mission3 ok นะจ๊ะ",
